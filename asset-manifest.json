@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pong-game/static/css/main.5319b03d.chunk.css",
-    "main.js": "/pong-game/static/js/main.c2e53548.chunk.js",
-    "main.js.map": "/pong-game/static/js/main.c2e53548.chunk.js.map",
-    "runtime-main.js": "/pong-game/static/js/runtime-main.8f3be364.js",
-    "runtime-main.js.map": "/pong-game/static/js/runtime-main.8f3be364.js.map",
-    "static/js/2.16bc9eaa.chunk.js": "/pong-game/static/js/2.16bc9eaa.chunk.js",
-    "static/js/2.16bc9eaa.chunk.js.map": "/pong-game/static/js/2.16bc9eaa.chunk.js.map",
-    "index.html": "/pong-game/index.html",
-    "precache-manifest.95d82f42a306f3fa5b01be2b15686b59.js": "/pong-game/precache-manifest.95d82f42a306f3fa5b01be2b15686b59.js",
-    "service-worker.js": "/pong-game/service-worker.js",
-    "static/css/main.5319b03d.chunk.css.map": "/pong-game/static/css/main.5319b03d.chunk.css.map",
-    "static/js/2.16bc9eaa.chunk.js.LICENSE.txt": "/pong-game/static/js/2.16bc9eaa.chunk.js.LICENSE.txt"
+    "main.css": "/pong/static/css/main.5319b03d.chunk.css",
+    "main.js": "/pong/static/js/main.8bd093cd.chunk.js",
+    "main.js.map": "/pong/static/js/main.8bd093cd.chunk.js.map",
+    "runtime-main.js": "/pong/static/js/runtime-main.01b7ae04.js",
+    "runtime-main.js.map": "/pong/static/js/runtime-main.01b7ae04.js.map",
+    "static/js/2.16bc9eaa.chunk.js": "/pong/static/js/2.16bc9eaa.chunk.js",
+    "static/js/2.16bc9eaa.chunk.js.map": "/pong/static/js/2.16bc9eaa.chunk.js.map",
+    "index.html": "/pong/index.html",
+    "precache-manifest.3d29e5e0ced132310e3b03c03183edbb.js": "/pong/precache-manifest.3d29e5e0ced132310e3b03c03183edbb.js",
+    "service-worker.js": "/pong/service-worker.js",
+    "static/css/main.5319b03d.chunk.css.map": "/pong/static/css/main.5319b03d.chunk.css.map",
+    "static/js/2.16bc9eaa.chunk.js.LICENSE.txt": "/pong/static/js/2.16bc9eaa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f3be364.js",
+    "static/js/runtime-main.01b7ae04.js",
     "static/js/2.16bc9eaa.chunk.js",
     "static/css/main.5319b03d.chunk.css",
-    "static/js/main.c2e53548.chunk.js"
+    "static/js/main.8bd093cd.chunk.js"
   ]
 }
